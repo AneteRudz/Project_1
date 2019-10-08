@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
+# Mastermind
 Anete Rudzite
 
 Data Analytics, Amsterdam, 10/4/2019
@@ -13,7 +13,7 @@ Data Analytics, Amsterdam, 10/4/2019
 - [Links](#links)
 
 ## Project Description
-For the first project I decided to build the game 'Mastermind'. I remember playing this game in my childhood on an actual board and tought it would be interesting to see how the Python code would look like.
+For the first project I decided to build the game 'Mastermind'. I thought it would be interesting to see how the Python code for this game would look like.
 
 ## Rules
 1.	Pleayers: Code Maker (computer) and Code Guesser (user)
